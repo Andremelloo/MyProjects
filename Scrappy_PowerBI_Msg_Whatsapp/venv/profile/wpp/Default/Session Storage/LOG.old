@@ -1,0 +1,12 @@
+2021/11/02-16:50:18.845 34b8 Reusing MANIFEST C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\Session Storage/MANIFEST-000001
+2021/11/02-16:50:18.864 34b8 Recovering log #597
+2021/11/02-16:50:18.918 34b8 Reusing old log C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\Session Storage/000597.log 
+2021/11/02-16:51:27.405 169c Level-0 table #601: started
+2021/11/02-16:51:27.463 169c Level-0 table #601: 29174 bytes OK
+2021/11/02-16:51:27.500 169c Delete type=0 #597
+2021/11/02-16:51:53.138 74c Level-0 table #603: started
+2021/11/02-16:51:53.176 169c Current memtable full; waiting...
+2021/11/02-16:51:53.502 74c Level-0 table #603: 15186 bytes OK
+2021/11/02-16:51:53.788 74c Delete type=0 #600
+2021/11/02-16:51:53.835 74c Level-0 table #605: started
+2021/11/02-16:51:53.967 74c Level-0 table #605: 14315 bytes OK

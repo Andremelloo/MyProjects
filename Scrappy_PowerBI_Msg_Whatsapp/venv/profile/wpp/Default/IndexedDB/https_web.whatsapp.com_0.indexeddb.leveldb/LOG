@@ -1,0 +1,13 @@
+2021/11/02-16:52:14.559 27a0 Reusing MANIFEST C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-16:52:14.606 27a0 Recovering log #103
+2021/11/02-16:52:15.024 27a0 Reusing old log C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000103.log 
+2021/11/02-16:52:26.230 4cfc Level-0 table #108: started
+2021/11/02-16:52:26.504 4cfc Level-0 table #108: 1218358 bytes OK
+2021/11/02-16:52:26.570 4cfc Delete type=0 #103
+2021/11/02-16:52:32.341 1b0c Compacting 1@1 + 1@2 files
+2021/11/02-16:52:32.867 1b0c Generated table #109@1: 53833 keys, 2257374 bytes
+2021/11/02-16:52:32.920 1b0c Generated table #110@1: 78 keys, 5421 bytes
+2021/11/02-16:52:32.920 1b0c Compacted 1@1 + 1@2 files => 2262795 bytes
+2021/11/02-16:52:33.002 1b0c compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/11/02-16:52:33.004 1b0c Delete type=2 #105
+2021/11/02-16:52:33.004 1b0c Delete type=2 #108

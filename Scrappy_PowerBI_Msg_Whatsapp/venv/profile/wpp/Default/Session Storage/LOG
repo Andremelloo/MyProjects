@@ -1,0 +1,17 @@
+2021/11/02-16:52:11.177 3a68 Reusing MANIFEST C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\Session Storage/MANIFEST-000001
+2021/11/02-16:52:11.179 3a68 Recovering log #602
+2021/11/02-16:52:11.180 3a68 Level-0 table #605: started
+2021/11/02-16:52:11.347 3a68 Level-0 table #605: 14315 bytes OK
+2021/11/02-16:52:11.347 3a68 Recovering log #604
+2021/11/02-16:52:11.425 3a68 Reusing old log C:\Users\User\PycharmProjects\pythonProject_Powerbi_Msg_Whatssap\venv\profile\wpp\Default\Session Storage/000604.log 
+2021/11/02-16:52:11.479 3a68 Delete type=0 #602
+2021/11/02-16:52:11.480 33d8 Compacting 5@0 + 1@1 files
+2021/11/02-16:52:11.837 33d8 Generated table #606@0: 7 keys, 14275 bytes
+2021/11/02-16:52:11.837 33d8 Compacted 5@0 + 1@1 files => 14275 bytes
+2021/11/02-16:52:11.880 33d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/02-16:52:11.882 33d8 Delete type=2 #592
+2021/11/02-16:52:11.882 33d8 Delete type=2 #595
+2021/11/02-16:52:11.882 33d8 Delete type=2 #598
+2021/11/02-16:52:11.882 33d8 Delete type=2 #601
+2021/11/02-16:52:11.882 33d8 Delete type=2 #603
+2021/11/02-16:52:11.882 33d8 Delete type=2 #605
